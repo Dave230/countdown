@@ -23,7 +23,7 @@ body {
 
 h1 {
   margin-left: 3rem;
-  font-size: 5rem;
+  font-size: 10rem;
   font-weight: bold;
 }
 
@@ -33,10 +33,10 @@ h1 {
 }
 
 .big-text {
-  font-size: 5rem;
+  font-size: 10rem;
   font-weight: bold;
   line-height: 2;
-  margin: 0 1.8rem;
+  margin: 0 4rem;
 }
 
 .cd-element {
@@ -46,6 +46,6 @@ h1 {
 }
 
 .cd-element span {
-  font-size: 2rem;
+  font-size: 4rem;
 
 }
