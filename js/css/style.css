@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("/image/tlo.jpg");
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+    margin 5;
+
+}
+
+h1 {
+  margin-left: 3rem;
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.countdown-container {
+
+  display: flex;
+}
+
+.big-text {
+  font-size: 5rem;
+  font-weight: bold;
+  line-height: 3;
+  margin: 0 1.8rem;
+}
+
+.cd-element {
+  font-weight: 500;
+  text-align: center;
+
+}
+
+.cd-element span {
+  font-size: 2rem;
+
+}
